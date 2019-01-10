@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    background-color: #d8d8d8
+}
+
+.div1 {
+    
+    width: 100%;
+    height: 20vh;
+    background-color: #444444;
+}
+
+.div2 {
+    
+    margin: 0 auto;
+    width: 75%;
+    height: 75vh;
+    background-color: #efefef;
+}
+
+.div3 {
+
+    margin: 0 auto;
+    width: 75%;
+    height: 20vh;
+    background-color: #000000;
+}
